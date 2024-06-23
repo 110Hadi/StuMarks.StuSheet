@@ -1,0 +1,16 @@
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\bin\Debug\StuMarks.StuSheet.exe
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\bin\Debug\StuMarks.StuSheet.pdb
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\bin\Debug\StuMarks.StuSheet.xml
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.exe
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.xml
+E:\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.pdb
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.exe
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.xml
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.pdb
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\bin\Debug\StuMarks.StuSheet.exe
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\bin\Debug\StuMarks.StuSheet.pdb
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\bin\Debug\StuMarks.StuSheet.xml
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\HADI\Documents\Visual Studio 2010\Projects\StuMarks.StuSheet\StuMarks.StuSheet\obj\x86\Debug\StuMarks.StuSheet.vbproj.GenerateResource.Cache
