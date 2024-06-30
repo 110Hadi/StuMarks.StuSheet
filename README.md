@@ -6,5 +6,4 @@ A student marksheet that is capable of displaying data in 3 forms:
 <br>
 3. Result of a particular student
 <br>
-<br>
 Author: Hadi Raza
